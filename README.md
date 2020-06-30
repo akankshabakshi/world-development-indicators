@@ -1,6 +1,8 @@
 # World development indicators - Exploratory Data Analysis Using SQL
 One liner: "Exploring country development indicators around the world"
 
+![](https://github.com/akankshabakshi/world-development-indicators/blob/master/w.png)
+
 # Tables
 Tables and their fields are as follows: 
 - Country(CountryCode, ShortName, TableName, LongName, Alpha2Code, CurrencyUnit, SpecialNotes, Region, IncomeGroup, Wb2Code, NationalAccountsBaseYear, NationalAccountsReferenceYear, SnaPriceValuation, LendingCategory, OtherGroups, SystemOfNationalAccounts, AlternativeConversionFactor, PppSurveyYear, BalanceOfPaymentManualInUse, ExternalDebtReportingStatus, SystemofTrade, GovernmentAccountingConcept, ImfDataDissemincationStandard, LatestPopulationCensus, LatestHouseholdSurvey, SourceofMostRecentIncomeandExpenditureData, VitalRegistrationComplete, LatestAgriculturalCensus, LatestIndustrialData, LatestTradeData, LatestWaterWithdrawalData)
